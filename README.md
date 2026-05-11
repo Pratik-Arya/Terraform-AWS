@@ -1,5 +1,5 @@
 # Terraform with AWS 🚀
-### Comprehensive Terraform with AWS! This repository contains all code samples and documentation corresponding to each lesson.
+Comprehensive Terraform with AWS! This repository contains all code samples and documentation corresponding to each lesson.
 
 # Resources
 ### [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
